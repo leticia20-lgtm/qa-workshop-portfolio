@@ -1,16 +1,11 @@
 # QA Workshop Portfolio
 
-This repository contains my work and deliverables from the QA Workshop.
+Portafolio individual del workshop "Ingeniero de Pruebas en el Desarrollo Moderno".
 
-## Objective
-To document my learning process and practical work in software testing and quality assurance.
+Autor: Leticia Marinoni
 
-## Contents
-Throughout the workshop this repository will include:
-- Test cases
-- Bug reports
-- Test plans
-- QA documentation
+Este repositorio contendrá los entregables desarrollados durante el workshop.
 
-## Author
-Leticia Marinoni
+## Estado actual
+
+Repositorio conectado y listo para comenzar el trabajo del portafolio.
