@@ -1,18 +1,35 @@
-# Session Notes
+# Sesión 1
 
-## Sesión 1 – Exploración de checkout
+## Charter
+Explorar el comportamiento del carrito al agregar, eliminar y modificar productos.
 
-### Objetivo
-Verificar si el proceso de compra funciona correctamente.
+## ÁREAS
+Carrito de compras
 
-### Qué probé
-- Agregar productos al carrito
-- Ir al checkout
-- Realizar el pago
+## INICIO
+30 minutos
 
-### Qué encontré
-- El proceso funciona correctamente
-- Puede mejorar la claridad de los mensajes de error
+## TESTER
+Leticia
 
-### Observaciones
-El flujo es claro, pero algunos mensajes podrían ser más específicos para el usuario.
+## DESGLOSE DE TAREAS
+- 10 min: agregar productos
+- 10 min: eliminar y modificar cantidades
+- 10 min: navegación y validaciones
+
+## ARCHIVOS DE DATOS
+Productos del catálogo
+
+## NOTAS DE PRUEBA
+Se probaron diferentes combinaciones de productos en el carrito. 
+El sistema respondió correctamente en la mayoría de los casos, aunque puede mejorar la claridad al actualizar cantidades.
+
+## LISTA DE RIESGOS
+- Posible pérdida de productos al actualizar
+- Inconsistencias en cantidades
+
+## DEFECTOS (BUGS)
+No se detectaron errores críticos
+
+## INCIDENTES (ISSUES)
+Falta claridad en algunos mensajes del sistema
