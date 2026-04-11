@@ -13,4 +13,4 @@ Voy a probar después:
 - Detalles visuales
 - Cosas menos importantes
 
-Porque no afectan directamente la compra.
+Porque no afectan directamente la compra.X|X
